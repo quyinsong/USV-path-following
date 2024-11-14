@@ -11,18 +11,15 @@ USV 数学模型矩阵表达式如下：\
 
 USV仿真参数：船长：1.255m 船宽： 0.29m
 			
-Yvdot=-10	Nrdot=-1	Xg=0.046	Yrdot=0
-Xu=-0.72253	Xuu=-1.32742	Yv=-0.88965	Yr=-7.25
-Yvv=-36.47287	Yrv=-0.805	Yvr=-0.845	Yrr=-3.45
-Nv=0.00313	Nr=-1.9	Nvv=3.95645	Nrv=0.130
-Nvr=0.080	Nrr=-0.75		
+![image](https://github.com/user-attachments/assets/e0427c56-9cca-4c75-92df-1bdd3d0b4823)
+
 
 可写成如下表达式：
 ![image](https://github.com/user-attachments/assets/d54f75e2-df43-4e71-b409-771f4e006779)
 
 ![image](https://github.com/user-attachments/assets/d3b10606-6ea1-4aee-8720-8f37d11f4cef)
 
-其中：
+其中：\
 ![image](https://github.com/user-attachments/assets/1a348499-3e8d-4ffb-8cd7-ebc9422d299b)
 
 2 LOS制导率

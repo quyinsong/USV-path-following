@@ -56,16 +56,20 @@ USV仿真参数：船长：1.255m 船宽： 0.29m
 
 利用李雅普诺夫定理可知系统稳定
 证毕；
-3 艏向控制率设计
+
+## 3、艏向控制率设计
+
 由USV数学模型可得：
 
 ![image](https://github.com/user-attachments/assets/0f3417f9-5432-434a-a022-e57b07d55adb)
 
 可以通过调节Kp和kd的值来改变系统的响应速度
-4 仿真
+## 4、仿真
 LOS参数：
 PD控制器参数：Kp = 4  Kd = 6
 点集：point_database =[0 0; 40 40; 80 40; 90 20; 90 10; 80 0]';
 仿真结果：
 
 ![image](https://github.com/user-attachments/assets/98e1b61e-5e54-41a2-b9ce-310f3dc31e39)
+
+# 实验4（main4）曲线路径跟踪实验

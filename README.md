@@ -13,7 +13,7 @@ USV 数学模型矩阵表达式如下：
 
 其中：
 
-![image](https://github.com/user-attachments/assets/869b428b-ef0c-4786-8c8e-01cc3d6d5957)
+![image](https://github.com/user-attachments/assets/78d4d35b-61ff-4b3e-bab2-eb11aa020dbf)
 
 USV仿真参数：船长：1.255m 船宽： 0.29m
 			

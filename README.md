@@ -1,12 +1,16 @@
 # USV-path-following
 USV路径跟踪LOS控制算法仿真
 
-实验一(main1)： 直线路径跟踪，LOS导航算法 PID控制
-1、USV数学模型
+# 实验一(main1)： 直线路径跟踪，LOS导航算法 PID控制
 
-参考文献；Error_Constrained LOS Path Following of a Surface Vessel With Actuator Saturation and Faults\
+## 1、USV数学模型
+
+参考文献: Error_Constrained LOS Path Following of a Surface Vessel With Actuator Saturation and Faults
+
 USV 数学模型矩阵表达式如下：
-	![image](https://github.com/user-attachments/assets/a7d36b02-a73f-4a7d-aeb5-cc653a50f9f7) （1）
+
+![image](https://github.com/user-attachments/assets/a7d36b02-a73f-4a7d-aeb5-cc653a50f9f7) （1）
+
 其中：
 
 ![image](https://github.com/user-attachments/assets/869b428b-ef0c-4786-8c8e-01cc3d6d5957)
@@ -26,7 +30,7 @@ USV仿真参数：船长：1.255m 船宽： 0.29m
 
 ![image](https://github.com/user-attachments/assets/361cf336-c65f-4cd6-ab53-2c7caf5870df)
 
-2 LOS制导率
+## 2、LOS制导率
 
 ![image](https://github.com/user-attachments/assets/1a348499-3e8d-4ffb-8cd7-ebc9422d299b)
 

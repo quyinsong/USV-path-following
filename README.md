@@ -65,9 +65,9 @@ USV仿真参数：船长：1.255m 船宽： 0.29m
 
 可以通过调节Kp和kd的值来改变系统的响应速度
 ## 4、仿真
-LOS参数：
-PD控制器参数：Kp = 4  Kd = 6
-点集：point_database =[0 0; 40 40; 80 40; 90 20; 90 10; 80 0]';
+LOS参数：\
+PD控制器参数：Kp = 4  Kd = 6\
+点集：point_database =[0 0; 40 40; 80 40; 90 20; 90 10; 80 0]';\
 仿真结果：
 
 ![image](https://github.com/user-attachments/assets/98e1b61e-5e54-41a2-b9ce-310f3dc31e39)
